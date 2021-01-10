@@ -1,0 +1,9 @@
+1610867637
+a:2:{s:7:"content";s:1737:"<p>This is a self-hosted, self-managed website, and it has been really fun tapping into some of the old skills from my past life at Red Hat, as well as learning a lot of new things along the way. In the modern age of public clouds like AWS, I have decided to kick it old school and host this site on a dead Macbook-turned-Linux-server in my apartment for no better reason than that I thought it would be fun. There several great reasons NOT to self-host my website, but I am willfully ignoring them. While I've put a lot of work into this project, it stands on the backs of some great free and open source technologies, and I need to give credit where it's due!</p>
+<ul>
+<li>Operating System: <a href="https://ubuntu.com/">Ubuntu 20.04</a></li>
+<li>HTTP Server: <a href="https://www.apache.org/">Apache 2.4</a></li>
+<li>SSL Cert: <a href="https://certbot.eff.org/">Certbot</a></li>
+<li>Content Management System: <a href="https://getgrav.org/">Grav</a> with the <a href="http://hypertext.artofthesmart.com/">Hypertext Theme</a></li>
+</ul>
+<p>Unrelated to BenTeachesMath.com, this server is also contributing to the Great Internet Mersenne Prime Search (<a href="https://www.mersenne.org/">GIMPS</a>) by running a fantastic piece of software called <a href="https://en.wikipedia.org/wiki/Prime95">Prime95</a> which crowdsources compute power for testing for new prime numbers. Mersenne numbers are the set of integers that are one less than a power of two, many of which happen to be prime, such as 7 (2<sup>3</sup>-1), 31 (2<sup>5</sup>-1) and 524287 (2<sup>19</sup>-1). Since discovering the 35th Mersenne Prime (2<sup>1398269</sup>-1) in 1996, GIMPS has found the next 17, many of which broke the previous record for largest prime.</p>";s:12:"content_meta";N;}
