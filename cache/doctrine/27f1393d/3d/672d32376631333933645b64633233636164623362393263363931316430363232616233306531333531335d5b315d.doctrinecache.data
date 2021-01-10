@@ -1,0 +1,26 @@
+1610923631
+a:2:{s:7:"content";s:2676:"<h4>Essential Question</h4>
+<p>How can we build a visual intuition for algebraic representation?</p>
+<h4>Overview</h4>
+<p><a href="https://bhi61nm2cr3mkdgk1dtaov18-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Border-Problem-final-copy.pdf">The Border Problem</a> is a classic from <a href="https://www.youcubed.org/">YouCubed</a>, and one of my favorite ways to start a unit on algebra because it promotes rich dialogue, creates a need for students to devise new tools and methods of representation, and is a great activity for setting norms in the classroom.</p>
+<h4>HEARTS</h4>
+<h5>Heat &amp; Engage</h5>
+<p>To kick off this lesson, challenge the students to determine how many red squares are in this figure without counting... but they'll only have a few seconds to view it before it disappears!<br />
+<img alt="" src="/user/pages/02.Projects & Lessons/the-border-problem/Border Problem.png" /><br />
+Once they've had some time to jot down their answer, ask students to share what they got, but see if they can also come up to the board and sketch how they visualized the solution, and how the visualization led to their answer. Here is what came up in my virtual classroom in fall 2020, although there are several more visualizations other students have come up with:<br />
+<img alt="" src="/user/pages/02.Projects & Lessons/the-border-problem/Border Problem WB1.png" /><br />
+If any students get an answer that disagrees with the general class consensus, it's a great opportunity to normalize that mistakes are beautiful by reminding students that this was not a counting challenge and celebrating their visual understanding. It is also an opportunity for a discussion about how different people can see the same thing very differently, and that all perspectives are valid.</p>
+<h5>Activate</h5>
+<p>Moving on from this introduction, students are challenged to find the border of a 6x6 square using any of the visualizations that were shared, or by trying to invent a new visualization. Once they think they have the 6x6 case, ask them to write instructions for finding the border of any sized square.</p>
+<h5>Reflect</h5>
+<h5>Transform</h5>
+<h5>Store</h5>
+<h4>Extensions</h4>
+<p>For students who grasp the border problem quickly, here are some challenges for them to take it deeper:</p>
+<ul>
+<li>What is the border of a 1x1 square? How does your definition of border change the answer?</li>
+<li>What happens if the thickness of the border varies?</li>
+<li>How does this work for other self-tiling shapes, like a triangle's border?</li>
+<li>How does it change as you move into 3D? What is the border of a cube with a side length of x?</li>
+</ul>
+<h4>Iterations</h4>";s:12:"content_meta";N;}
